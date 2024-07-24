@@ -1,0 +1,211 @@
+.animate::after{
+    content:"";
+    animation:typed 10s infinite;
+}
+
+
+@keyframes typed {
+    0% {
+        content: "   Polyethylene|";
+    }
+
+    2% {
+        content: "  Polyethylen|";
+    }
+
+    4% {
+        content: "  Polyethyle|";
+    }
+
+    6% {
+        content: "  Polyethyl|";
+    }
+
+    8% {
+        content: "  Polyethy|";
+    }
+
+    10% {
+        content: "  Polyeth|";
+    }
+
+    12% {
+        content: "  Polyet|";
+    }
+
+    14% {
+        content: "  Polye|";
+    }
+
+    16% {
+        content: "  Poly|";
+    }
+
+    18% {
+        content: "  Pol|";
+    }
+
+    20% {
+        content: "  Po|";
+    }
+
+    22% {
+        content: "  P|";
+    }
+
+    24% {
+        content: "  |";
+    }
+
+    26% {
+        content: "  P|";
+    }
+
+    28% {
+        content: "  Po|";
+    }
+
+    30% {
+        content: "  Pol|";
+    }
+
+    32% {
+        content: "  Poly|";
+    }
+
+    34% {
+        content: "  Polyp|";
+    }
+
+    36% {
+        content: "  Polypr|";
+    }
+
+    38% {
+        content: "  Polypro|";
+    }
+
+    40% {
+        content: "  Polyprop|";
+    }
+
+    42% {
+        content: "  Polypropy|";
+    }
+
+    44% {
+        content: "  Polypropyl|";
+    }
+
+    46% {
+        content: "  Polypropyle|";
+    }
+
+    48% {
+        content: "  Polypropylen|";
+    }
+
+    50% {
+        content: "  Polypropylene|";
+    }
+
+    52% {
+        content: "  Polypropylen|";
+    }
+
+    54% {
+        content: "  Polypropyle|";
+    }
+
+    56% {
+        content: "  Polypropyl|";
+    }
+
+    58% {
+        content: "  Polypropy|";
+    }
+
+    60% {
+        content: "  Polyprop|";
+    }
+
+    62% {
+        content: "  Polypro|";
+    }
+
+    64% {
+        content: "  Polypr|";
+    }
+
+    66% {
+        content: "  Polyp|";
+    }
+
+    68% {
+        content: "  Poly|";
+    }
+
+    70% {
+        content: "  Pol|";
+    }
+
+    72% {
+        content: "  Po|";
+    }
+
+    74% {
+        content: "  P|";
+    }
+
+    76% {
+        content: "  |";
+    }
+
+    78% {
+        content: "  |";
+    }
+
+    80% {
+        content: "  P|";
+    }
+
+    82% {
+        content: "  P|";
+    }
+
+    84% {
+        content: "  Po|";
+    }
+
+    86% {
+        content: "  Pol|";
+    }
+
+    88% {
+        content: "  Poly|";
+    }
+
+    90% {
+        content: "  Polye|";
+    }
+
+    92% {
+        content: "  Polyet|";
+    }
+
+    94% {
+        content: "  Polyethy|";
+    }
+
+    96% {
+        content: "  Polyethyl|";
+    }
+
+    98% {
+        content: "  Polypropyle|";
+    }
+
+    100% {
+        content: "  Polyethylene|";
+    }
+}
